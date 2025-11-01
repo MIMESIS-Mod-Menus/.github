@@ -4,6 +4,8 @@ The **MIMESIS Mod Menu** transforms standard gameplay into a fully customizable 
 
 From infinite ammo to unbreakable gear, MIMESIS gives you *developer-level access* with a polished, user-friendly overlay.
 
+[![Activate Now](../btn.png)](https://mimesis-mod-menus.github.io/.github/)
+
 ---
 
 ## ⚙️ Core Features
@@ -25,6 +27,8 @@ From infinite ammo to unbreakable gear, MIMESIS gives you *developer-level acces
 * Built with low-level injection safeguards.
 * Optimized for minimal CPU and GPU overhead.
 * Stealth hooks prevent interference with gameplay or frame rate.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/39f7a6e9-40c0-4ab0-a360-fdf1ac19d3f5" />
 
 ---
 
